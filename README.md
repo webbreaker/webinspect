@@ -1,1 +1,1 @@
-WebBreaker example repository for to store and centrally manage all WebInspect related configurations.
+WebBreaker example repository to store and centrally manage all WebInspect related configurations.
